@@ -22,4 +22,4 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (85).png>)

@@ -4,7 +4,7 @@
 
 #### Single User/Non-production Code
 
-So far we have been using GitHub to store our class work and each student has been working on their own projects.  In this scenario Git/GitHub is being used as a means of:
+So far we have been using GitHub to store our class work and each student has been working on their own projects. In this scenario Git/GitHub is being used as a means of:
 
 * backup/version control
 * a place to share content (others can view/download your repo)
@@ -18,8 +18,6 @@ In this scenario, there is little need for branching, as we can just frequently 
 As soon as there is a need to maintain a production-ready version of the code, then the main branch becomes that version, and changes should be done in a new temporary branch and then those changes can be merged back into the main branch when they have been tested to ensure they will not break the production ready code.
 
 When multiple developers are collaborating on a project, then an added layer of protection is added by requiring all branches to go through an approval process before their changes can be merged into the main branch. This process is called a pull request in GitHub.
-
-
 
 ### Basic Git Workflow
 
@@ -43,19 +41,14 @@ None of this will be very concrete without working with a real repository and wa
 
 Click on the following assignment link: [https://classroom.github.com/a/Ifm6Vn-C](https://classroom.github.com/a/Ifm6Vn-C)
 
-
-
 ### Collaborative News site
 
 Click on the following assignment link: [https://classroom.github.com/a/6hqrxwlx](https://classroom.github.com/a/6hqrxwlx)
 
-
-
-{% content-ref url="../appendix/git-github/github-collaboration.md" %}
-[github-collaboration.md](../appendix/git-github/github-collaboration.md)
+{% content-ref url="../../git-github/github-collaboration.md" %}
+[github-collaboration.md](../../git-github/github-collaboration.md)
 {% endcontent-ref %}
 
 ###
 
 ###
-

@@ -12,7 +12,7 @@ To start working on the walkthrough:
 
 ### Media Queries
 
-* [topic](../html-css/layout/responsive-web-design/media-queries.md)
+* [topic](../../../layout/responsive-web-design/media-queries.md)
 * demo
 * fm-3-column-preview-card
 
@@ -32,11 +32,11 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (66).png>)
 
 ### fm-single-price-grid
 
-This exercise uses [flex](../html-css/layout/flexbox.md), [centering content](../html-css/layout/centering-elements.md) and [box-shadow](../html-css/misc-topics/box-shadow.md).
+This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../layout/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
 
 To start working on the walkthrough:
 
@@ -44,13 +44,11 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](<../.gitbook/assets/image (47).png>)
-
-
+![](<../../../.gitbook/assets/image (47).png>)
 
 ### fm-four-card-feature
 
-This exercise uses [flex](../html-css/layout/flexbox.md), [centering content](../html-css/layout/centering-elements.md) and [box-shadow](../html-css/misc-topics/box-shadow.md).
+This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../layout/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
 
 To start working on the walkthrough:
 
@@ -58,7 +56,7 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (67).png>)
 
 ### Scrimba - Figma to Code
 
@@ -71,4 +69,3 @@ achinn@nwlink.com/ruggles is cute
 {% embed url="https://scrimba.com/learn/htmlcss" %}
 
 {% embed url="https://scrimba.com/learn/flexbox" %}
-

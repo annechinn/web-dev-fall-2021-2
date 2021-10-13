@@ -7,9 +7,9 @@
 
 ### Class Material
 
-* [Anatomy of a Web Page](../html-css/how-the-web-works/anatomy-of-a-web-page.md)
-* [How a Web Page Gets Loaded](../html-css/how-the-web-works/how-a-web-page-gets-loaded.md)
-* [HTML Section](../html-css/html-intro/)
+* [Anatomy of a Web Page](../../../how-the-web-works/anatomy-of-a-web-page.md)
+* [How a Web Page Gets Loaded](../../../how-the-web-works/how-a-web-page-gets-loaded.md)
+* [HTML Section](../../../html-intro/)
 
 ### HTML Basic Elements Lecture/Demo
 
@@ -19,12 +19,12 @@
 
 * Click on this link to start the assignment: [https://classroom.github.com/a/6KL1Ink\_](https://classroom.github.com/a/6KL1Ink\_)
 * Clone the GitHub assignment repo to your local computer.
-  * [directions for cloning an existing repo from GitHub](../appendix/git-github/cloning-from-an-existing-github-repo.md)
+  * [directions for cloning an existing repo from GitHub](../../git-github/cloning-from-an-existing-github-repo.md)
 * Instructions are in the README.md file in the root of the project directory.
 
 ### Project: Article Progression
 
-This is an assignment that has four parts. You'll work on it both in and outside of class over the next week and a half. You'll work on new features as you learn them. 
+This is an assignment that has four parts. You'll work on it both in and outside of class over the next week and a half. You'll work on new features as you learn them.
 
 Here is a [link ](https://ecstatic-liskov-5f80b2.netlify.app)to the finished page.
 

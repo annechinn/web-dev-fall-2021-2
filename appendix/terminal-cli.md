@@ -2,7 +2,7 @@
 
 #### Launching Git Bash
 
-To launch Git Bash, open your Windows Start menu and type **Git Bash **or** **open a new **Terminal Window within VS Code**.
+To launch Git Bash, open your Windows Start menu and type \*\*Git Bash **or** \*\*open a new **Terminal Window within VS Code**.
 
 The shell will always display some standard information followed by a $ sign. The information before the $ sign includes your username and current directory.
 
@@ -67,7 +67,8 @@ As you work with the commands, you will learn the rules for how each one works.
 | cat \<file>                     | concatenate the file line by line and display it on the terminal           |
 | mv \<file>                      | renames the file                                                           |
 
-Resources
+### Resources
 
 * [Learn the Command Line in Terminal](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal?status=published)
 * [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/).
+* [HYF Video](https://www.youtube.com/watch?v=seMBsGpc8vM\&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj\&index=2)

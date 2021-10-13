@@ -15,16 +15,16 @@ Don't use hard-coded widths, except for max-width. Use a percentage and auto lef
 }
 ```
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71).png>)
 
 #### Use Padding to get uniform space within a parent of multiple children (except when using flexbox.
 
 Flexbox ignores padding/margins of children, so you can use the flex justify-content and align-items to get the correct layout.
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (75).png>)
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76).png>)
 
-![](<../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (77).png>)
 
 ### Review Past Assignments from [Thursday](week-1-thursday-9-23.md)

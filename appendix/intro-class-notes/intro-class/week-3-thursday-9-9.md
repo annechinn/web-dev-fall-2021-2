@@ -9,16 +9,16 @@
 
 Here is the assignment link: [https://classroom.github.com/a/SBsDzsXI](https://classroom.github.com/a/SBsDzsXI)
 
-* [Emmet ](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
+* [Emmet](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
 
 ### Continue CSS Topics
 
-{% content-ref url="../html-css/css-intro/block-vs-inline.md" %}
-[block-vs-inline.md](../html-css/css-intro/block-vs-inline.md)
+{% content-ref url="../../../css-intro/block-vs-inline.md" %}
+[block-vs-inline.md](../../../css-intro/block-vs-inline.md)
 {% endcontent-ref %}
 
-{% content-ref url="../html-css/css-intro/untitled.md" %}
-[untitled.md](../html-css/css-intro/untitled.md)
+{% content-ref url="../../../css-intro/untitled.md" %}
+[untitled.md](../../../css-intro/untitled.md)
 {% endcontent-ref %}
 
 #### Demos
@@ -34,7 +34,7 @@ This in-class walkthrough will give us practice with the box-model properties: m
 
 Here is what the page should look like:
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
 To start working on the walkthrough:
 
@@ -48,7 +48,7 @@ This in-class walkthrough will give us practice with the CSS display property va
 
 Here's what the page should look like:
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 To start working on the walkthrough:
 

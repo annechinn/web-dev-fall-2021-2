@@ -3,7 +3,7 @@
 ### Main Topic: Responsive Design/Flex
 
 * [Web Tips for Developers](https://www.youtube.com/watch?v=ykn4XNDwW7Q)
-* [Responsive Web Design](../html-css/layout/responsive-web-design/)
+* [Responsive Web Design](../../../layout/responsive-web-design/)
 * [BEM CSS Style Guide](https://scalablecss.com/static/BEM-cheat-sheet-c5d485af76bc3ec0fd23140951861136.pdf)
 
 ### In-class Walkthrough: responsive-layout

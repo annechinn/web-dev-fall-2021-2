@@ -22,7 +22,7 @@ Go to the[ GitHub website](https://github.com) and click the sign-up button in t
 
 * go to the [VS Code website](https://code.visualstudio.com/download) and download and install the appropriate version for your computer.
 * if this is your first time using Visual Studio code, watch this introductory [video](https://www.youtube.com/watch?v=S320N3sxinE).
-* install the **essential extensions** listed in the [VS Code Intro](broken-reference) topic.
+* install the **essential extensions** listed in the [VS Code Intro](vs-code-intro.md) topic.
 
 ### Chrome - Best Web Browser for Web Developers
 

@@ -7,8 +7,6 @@
 
 {% embed url="https://webdesign.tutsplus.com/articles/how-to-use-the-contrast-checker-in-chrome-devtools--cms-31504" %}
 
-
-
 ### In-class walk through: rdb-flexbox-living-social-life
 
 To start working on the walkthrough:
@@ -17,4 +15,4 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](<../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (79).png>)

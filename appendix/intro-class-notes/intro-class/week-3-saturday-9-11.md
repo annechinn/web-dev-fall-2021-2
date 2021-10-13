@@ -4,10 +4,10 @@
 
 The topic for the next several classes is to learn about layout, including centering content and flex and grid to position sections of the content.
 
-* [Centering Content](../html-css/layout/centering-elements.md)
-* [Container Elements](../html-css/layout/containers.md)
-* [Grid vs Flex](../html-css/layout/grid-vs-flexbox.md)
-* [Flex](../html-css/layout/flexbox.md)
+* [Centering Content](../../../layout/centering-elements.md)
+* [Container Elements](../../../layout/containers.md)
+* [Grid vs Flex](../../../layout/grid-vs-flexbox.md)
+* [Flex](../../../layout/flexbox.md)
 
 ### Demos
 
