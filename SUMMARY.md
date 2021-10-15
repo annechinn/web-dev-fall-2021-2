@@ -2,7 +2,8 @@
 
 ## Class Notes
 
-* [10/15 - Intro/Setup](README.md)
+* [Class Info](README.md)
+* [10/15 - Intro/Setup](<README (1).md>)
 
 ***
 
