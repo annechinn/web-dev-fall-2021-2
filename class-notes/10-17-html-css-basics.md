@@ -1,5 +1,9 @@
 # 10/17 - HTML/CSS Basics
 
+### Class Recording
+
+{% embed url="https://www.youtube.com/watch?v=a8A2qEmBvV4" %}
+
 ### Useful VS Code Short-cuts
 
 * **Ctrl-B**: Toggle Explorer View
