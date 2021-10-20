@@ -1,4 +1,8 @@
-# HTML/CSS Basics
+# 10/20 - HTML/CSS Basics
+
+#### Class Recording
+
+{% embed url="https://www.youtube.com/watch?v=qVw7jD23x-M" %}
 
 #### Orange & Black - Basic HTML/CSS
 
