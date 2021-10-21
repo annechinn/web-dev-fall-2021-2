@@ -6,6 +6,7 @@
 * [10/15 - Intro/Setup](<README (1).md>)
 * [10/17 - HTML/CSS Basics](class-notes/10-17-html-css-basics.md)
 * [10/20 - HTML/CSS Basics](class-notes/10-20-html-css-basics.md)
+* [10/22 - HTML/CSS Basics](class-notes/10-22-html-css-basics.md)
 
 ***
 
