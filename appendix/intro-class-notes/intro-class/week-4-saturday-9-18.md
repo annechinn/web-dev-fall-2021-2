@@ -6,7 +6,7 @@
 
 To start working on the walkthrough:
 
-* Click on this assignment link. [https://classroom.github.com/a/ao3Vu_OG](https://classroom.github.com/a/jzrV-VwZ)
+* Click on this assignment link. [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/jzrV-VwZ)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
@@ -28,7 +28,7 @@ Continuing with layout challenges using flexbox from Tuesday/Thursday.
 
 To start working on the walkthrough:
 
-* Click on this assignment link. [https://classroom.github.com/a/ao3Vu_OG](https://classroom.github.com/a/FoKUSM52)
+* Click on this assignment link. [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/FoKUSM52)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
@@ -36,7 +36,7 @@ To start working on the walkthrough:
 
 ### fm-single-price-grid
 
-This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../layout/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
+This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../misc-topics/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
 
 To start working on the walkthrough:
 
@@ -48,7 +48,7 @@ To start working on the walkthrough:
 
 ### fm-four-card-feature
 
-This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../layout/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
+This exercise uses [flex](../../../layout/flexbox.md), [centering content](../../../misc-topics/centering-elements.md) and [box-shadow](../../../misc-topics/box-shadow.md).
 
 To start working on the walkthrough:
 

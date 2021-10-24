@@ -7,6 +7,7 @@
 * [10/17 - HTML/CSS Basics](class-notes/10-17-html-css-basics.md)
 * [10/20 - HTML/CSS Basics](class-notes/10-20-html-css-basics.md)
 * [10/22 - HTML/CSS Basics](class-notes/10-22-html-css-basics.md)
+* [10/24 - Layout](class-notes/10-24-layout.md)
 
 ***
 
@@ -32,7 +33,6 @@
   * [Block vs Inline](css-intro/block-vs-inline.md)
   * [The Cascade](css-intro/untitled.md)
 * [Layout](layout/README.md)
-  * [Centering Elements](layout/centering-elements.md)
   * [Container Elements](layout/containers.md)
   * [Grid vs Flexbox](layout/grid-vs-flexbox.md)
   * [Grid](layout/grid.md)
@@ -47,6 +47,7 @@
   * [Background Image](misc-topics/background-image.md)
   * [Border-radius](misc-topics/border-radius.md)
   * [Box-shadow](misc-topics/box-shadow.md)
+  * [Centering Elements](misc-topics/centering-elements.md)
   * [Colors](misc-topics/colors.md)
   * [Custom Properties](misc-topics/custom-properties.md)
   * [Global CSS Vars](misc-topics/global-css-vars.md)

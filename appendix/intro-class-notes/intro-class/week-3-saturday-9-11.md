@@ -4,7 +4,7 @@
 
 The topic for the next several classes is to learn about layout, including centering content and flex and grid to position sections of the content.
 
-* [Centering Content](../../../layout/centering-elements.md)
+* [Centering Content](../../../misc-topics/centering-elements.md)
 * [Container Elements](../../../layout/containers.md)
 * [Grid vs Flex](../../../layout/grid-vs-flexbox.md)
 * [Flex](../../../layout/flexbox.md)
@@ -31,6 +31,6 @@ This in-class walkthrough will give us more practice with design specs and flex.
 
 To start working on the walkthrough:
 
-* Click on this assignment link. [https://classroom.github.com/a/ao3Vu_OG](https://classroom.github.com/a/FoKUSM52)
+* Click on this assignment link. [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/FoKUSM52)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
