@@ -1,6 +1,10 @@
 # 10/24 - Layout
 
+### Class Recording
 
+We spent some time setting up Git and had some issues with Windows 11 so only the first 45 minutes are class content.
+
+{% embed url="https://www.youtube.com/watch?v=HhNUZUg3h68" %}
 
 ### Main Topic: Layout
 
