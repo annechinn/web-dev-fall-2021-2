@@ -34,11 +34,11 @@ There should only be a single `h1` element on a page.
     <h6>Heading 6</h6>
 ```
 
-![](<../../../.gitbook/assets/image (149).png>)
+![](<../../.gitbook/assets/image (149).png>)
 
 ### A Typical Use of h1 - h3
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 ## Paragraphs - \<p>
 
@@ -59,10 +59,11 @@ The `ul` element is for an unordered list. The `ol` element is used for an order
 
 ## Emphasizing Text - \<strong>, \<em>, \<b>, \<i>
 
-The use of these elements is often confusing, as it appears that their usage overlaps. This is a topic that is worth reviewing at a later point on the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#usage_notes).
+The use of these elements is often confusing, as it appears that their usage overlaps. This is a topic that is worth reviewing at a later point on the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#usage\_notes).
 
-| **Element** | **Usage**                                                                                                                                                        |
+|             |                                                                                                                                                                  |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Element** | **Usage**                                                                                                                                                        |
 | strong      | indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render the contents in bold type                                 |
 | em          | marks text that has stress emphasis                                                                                                                              |
 | b           | is used to draw the reader's attention to the element's contents, which are not otherwise granted special importance                                             |
