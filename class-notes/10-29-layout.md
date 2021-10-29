@@ -1,4 +1,8 @@
-# 10/27 - Layout
+# 10/29 - Layout
+
+### Class Recording
+
+{% embed url="https://youtu.be/1rIHHwv91Lc" %}
 
 ### Continuing with exercises from last class
 
