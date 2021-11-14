@@ -13,6 +13,7 @@
 * [11/3 - Responsive Layout](class-notes/11-3-responsive-layout.md)
 * [11/5 - Responsive Layout](class-notes/11-5-responsive-layout.md)
 * [11/10 - Grid](class-notes/11-10-grid.md)
+* [11/14 - Grid](class-notes/11-14-grid.md)
 
 ***
 
